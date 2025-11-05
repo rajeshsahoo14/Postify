@@ -12,7 +12,7 @@ Users can register, log in, create posts, like/unlike, edit, upload profile pict
 - **JWT-based authentication** with cookies for persistent sessions  
 - Custom `isLoggedIn` middleware for route protection  
 - Logout feature to clear user sessions  
-
+ 
 ### 🖼️ Profile Picture Upload
 - Users can upload or change their **profile picture**  
 - Uploads handled using **Multer** and stored in `public/images/uploads/`  
