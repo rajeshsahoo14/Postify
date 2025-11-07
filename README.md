@@ -4,7 +4,7 @@ A **minimal social media web app** built with **Node.js**, **Express**, **MongoD
 Users can register, log in, create posts, like/unlike, edit, upload profile pictures, and manage their profile — all with **JWT-based authentication**.
 
 ---
-
+ 
 ## 🚀 Features
 
 ### 👤 Authentication
