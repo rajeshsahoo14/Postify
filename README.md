@@ -5,7 +5,7 @@ Users can register, log in, create posts, like/unlike, edit, upload profile pict
  
 ---
  
-## 🚀 Features
+## 🚀 Features 
 
 ### 👤 Authentication
 - Secure user registration and login with **bcrypt** password hashing  
